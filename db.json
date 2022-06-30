@@ -1,9 +1,6 @@
 {
   "categories": [
-    {"id": 1, "name": "International Languages", "icon": "FaGlobe", "order": 0 },
-    {"id": 2, "name": "Variety Channels", "icon": "FaLayerGroup", "order": 1 },
-    {"id": 3, "name": "Women", "icon": "FaVenus", "order": 2 },
-    {"id": 4, "name": "Men", "icon": "FaMars", "order": 3 }
+    {"id": 1, "name": "International Languages", "icon": "FaGlobe", "order": 0 }
   ],
   "channels": [
     {
