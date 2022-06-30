@@ -3,15 +3,7 @@
     {"id": 1, "name": "International Languages", "icon": "FaGlobe", "order": 0 },
     {"id": 2, "name": "Variety Channels", "icon": "FaLayerGroup", "order": 1 },
     {"id": 3, "name": "Women", "icon": "FaVenus", "order": 2 },
-    {"id": 4, "name": "Men", "icon": "FaMars", "order": 3 },
-    {"id": 5, "name": "Addiction Recovery", "icon": "FaSmokingBan", "order": 4 },
-    {"id": 6, "name": "Spiritual  Growth", "icon": "FaChartLine", "order": 5 },
-    {"id": 7, "name": "Health", "icon": "FaBriefcaseMedical", "order": 6 },
-    {"id": 8, "name": "Counseling", "icon": "FaComments", "order": 7 },
-    {"id": 9, "name": "Kids", "icon": "FaSmileBeam", "order": 8 },
-    {"id": 10, "name": "Espanol", "icon": "FaFlag", "order": 9 },
-    {"id": 11, "name": "Prayer", "icon": "FaPrayingHands", "order": 10 },
-    {"id": 112, "name": "Discipleship", "icon": "FaPray", "order": 11 }
+    {"id": 4, "name": "Men", "icon": "FaMars", "order": 3 }
   ],
   "channels": [
     {
@@ -21,51 +13,6 @@
       "description": "Lifestream Television Brazil is a 24 hour all Portuguese language Christian Network that broadcast great teachers and pastors from around the world.",
       "img": "/img/lifestream-brazil.png",
       "banner": "/img/banner-lifestream-brazil.jpg",
-      "categoryId": 1
-    },
-    {
-      "name": "Lifestream Espanol",
-      "slug": "lifestream-espanol",
-      "streamUrl": "https://5a22f3bfa1a54.streamlock.net/lifestreamespanol/live/playlist.m3u8",
-      "description": "Lifestream Espanol is a family of 24-hour, Bible-based, television channels. We are dedicated to providing quality content to inspire, empower, challenge, inform and disciple viewers, worldwide. We want every viewer to encounter the Lord and to experience the full spectrum of the presence and power of Jesus Christ, the Son of God.",
-      "img": "/img/lifestream-espanol.png",
-      "banner": "/img/banner-lifestream-espanol.jpg",
-      "categoryId": 1
-    },
-    {
-      "name": "Lifestream India",
-      "slug": "lifestream-india",
-      "streamUrl": "https://5a22f3bfa1a54.streamlock.net/lifestreamindia/live/playlist.m3u8",
-      "description": "Lifestream Television India - is a 24 hour all English and Hindi language Christian Network that broadcast great teachers and pastors from around the world.",
-      "img": "/img/lifestream-india.png",
-      "banner": "/img/banner-lifestream-india.jpg",
-      "categoryId": 1
-    },
-    {
-      "name": "Oracion Television",
-      "slug": "oracion-tv",
-      "streamUrl": "https://5a22f3bfa1a54.streamlock.net/oraciontv/live/playlist.m3u8",
-      "description": "Oracion Television is a 24 hour that will encourage and inspire viewers to take charge and control of their lives and their God-given destiny. We are here to help your unbelief become belief in yourself, your God-given purpose,  and confidence in your God-given abilities to achieve and accomplish all the things you are called to do. We help you to believe, so you can achieve.",
-      "img": "/img/oracion-television.png",
-      "banner": "/img/banner-oracion-television.jpg",
-      "categoryId": 1
-    },
-    {
-      "name": "Spiritual Warfare Television",
-      "slug": "spiritual-warfare-tv",
-      "streamUrl": "https://5a22f3bfa1a54.streamlock.net/spiritualwarfare/live/playlist.m3u8",
-      "description": "Spiritual Warfare Channel is a family of 24-hour, Bible-based, television channels. We are dedicated to providing quality content to inspire, empower, challenge, inform and disciple viewers, worldwide. We want every viewer to encounter the Lord and to experience the full spectrum of the presence and power of Jesus Christ, the Son of God.",
-      "img": "/img/guerra-espiritual.png",
-      "banner": "/img/banner-spiritual-warfare-channel.jpg",
-      "categoryId": 1
-    },
-    {
-      "name": "Gloria Television",
-      "slug": "gloria-tv",
-      "streamUrl": "https://5a22f3bfa1a54.streamlock.net/glorytv/live/playlist.m3u8",
-      "description": "Glory Television is a 24 hour Television network that will encourage and inspire viewers to take charge and control of their lives and their God-given destiny. We are here to help your unbelief become belief in yourself, your God-given purpose,  and confidence in your God-given abilities to achieve and accomplish all the things you are called to do. We help you to believe, so you can achieve.",
-      "img": "/img/gloria-television.png",
-      "banner": "/img/banner-glory-television.jpg",
       "categoryId": 1
     }
   ]
